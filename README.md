@@ -1,3 +1,2 @@
-# POC
-Some of my bigginer python programs.
-
+# py_programs
+Bigginer python programs.
