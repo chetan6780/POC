@@ -1,2 +1,3 @@
-# py_programs
-Bigginer to intermidiate python programs.
+# Python-programmes
+
+This repository contains bigener to intermediate python programs which are very useful for leaning various python concepts.
