@@ -1,0 +1,13 @@
+import pyttsx3
+en = pyttsx3.init()
+en.say("kaal meeri saari pei juice geira thhaa")
+en.say("aur mei dobaara nahane gai thi")
+en.say("tum chaanai kooker per chadhakar mere pass aayi thi")
+en.say("taub rasoda mei kon ta?")
+en.say("waha kon ta?")
+en.say("mei thi?")
+en.say("tum thi?")
+en.say("mai thi? tum thi?")
+en.say("kon tha?")
+en.say("KON TA?")
+en.runAndWait()
